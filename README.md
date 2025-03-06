@@ -3,6 +3,9 @@
 📌 Project Title & Description
 The Weather Alarm Clock is an advanced alarm system that not only wakes you up at your desired time but also provides real-time weather updates and personalized recommendations based on the current weather conditions. Additionally, it displays motivational quotes to give you an energetic start to your day.
 
+
+
+
 **🔥 Unique Features Added**
 
 ⏰ Customizable Alarm: Set alarms for specific times with different sound options.
@@ -16,6 +19,8 @@ The Weather Alarm Clock is an advanced alarm system that not only wakes you up a
 🌍 Weather-Based Recommendations: Get outfit and activity recommendations based on temperature, humidity, and conditions.
 
 🎵 Test Alarm Sound: Listen to a preview of the selected alarm tone.
+
+
 
 
 **🛠 Technologies/Libraries Used**
@@ -33,6 +38,9 @@ Threading (Handling alarm execution without freezing the UI)
 Pillow (PIL) (Handling images for UI enhancements)
 
 OS Module (Managing sound files and user inputs)
+
+
+
 
 **🚀 How to Run the Project**
 
@@ -67,6 +75,7 @@ Open the Python script and replace self.api_key with your API key.
 6. Run the Application
 
  python main.py
+
 
 
 **🤖 Extra Features (if any)**
