@@ -50,21 +50,21 @@ OS Module (Managing sound files and user inputs)
 
 2. Navigate to the Project Directory
 
- cd weather-alarm-clock
+_ cd weather-alarm-clock_
 
 3. Create a Virtual Environment (Optional but Recommended)
 
- python -m venv venv
+_ python -m venv venv_
 
 Activate it:
 
-Windows: venv\Scripts\activate
+_Windows: venv\Scripts\activate_
 
-Mac/Linux: source venv/bin/activate
+_Mac/Linux: source venv/bin/activate_
 
 4. Install Dependencies
 
- pip install -r requirements.txt
+ _pip install -r requirements.txt_
 
 5. Replace the Weather API Key
 
@@ -74,7 +74,7 @@ Open the Python script and replace self.api_key with your API key.
 
 6. Run the Application
 
- python main.py
+_ python main.py_
 
 
 
