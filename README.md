@@ -88,5 +88,7 @@ Stop Alarm Feature: Easily turn off an active alarm when needed.
 
 Enjoy your personalized wake-up experience with the Weather Alarm Clock! 🚀
 
+**_🎨 Screenshots of the UI_**
 
+<img width="1457" alt="Screenshot 2025-03-06 at 10 18 28 PM" src="https://github.com/user-attachments/assets/894229a0-1b80-4a95-93eb-677df7856213" />
 
